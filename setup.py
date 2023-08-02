@@ -3,9 +3,9 @@ from setuptools import find_packages, setup
 setup(
     name="tuwnlpie",
     version="0.0.1",
-    description="Project template for Natural Language Processing and Information Extraction course, 2022WS",
-    author="Adam Kovacs",
-    author_email="adam.kovacs@tuwien.ac.at",
+    description="",
+    author="",
+    author_email="",
     license="MIT",
     install_requires=[
         "nltk==3.7",
